@@ -1,0 +1,5 @@
+- 👋 Olá, sou Letícia do Nascimento Almeida Maciel
+- 👀 Estou interessada em aprender mais sobre programação
+- 🌱 Atualmente estou aprendendo java script
+- 💞️ Estou procurando colaborar em projetos
+- 📫 Para entrar em contato comigo: (61) 9 8440-7907
