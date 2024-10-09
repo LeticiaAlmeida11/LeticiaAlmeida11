@@ -1,4 +1,4 @@
-- 👋 Olá, sou Letícia do Nascimento Almeida Maciel
+- 👋 Olá, sou Letícia do Nascimento Almeida Maciel e estou cursando Analise e Desenvolvimento de Sistemas
 - 👀 Estou interessada em aprender mais sobre programação
 - 🌱 Atualmente estou aprendendo java script
 - 💞️ Estou procurando colaborar em projetos
